@@ -65,10 +65,10 @@ def monopoly_with_fourth_tier
                 "morgage_value" => "$400"
               },
               :shortline => {
-                "morgage_value" => "$8"
-              },
+                "morgage_value" => "$800"
+              }
+            }
           }
-      }
-		}
+		    }
 
 end
